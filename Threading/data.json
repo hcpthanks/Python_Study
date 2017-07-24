@@ -1,0 +1,25 @@
+[
+  {
+    "title": "python入门",
+    "price": 59.00
+    "author": [
+      {
+        "name": "Eason",
+        "age": 30
+      },
+      {
+        "name": "mike",
+        "age": 33
+      }
+    ],
+    "discontinued": true,
+    "genre": null
+  },
+  {
+    "title": "flask 项目实战"
+    "price": 120.00
+  }
+]
+
+url = 'http://api.k780.com:88'
+params = {'app':'phone.get', 'appkey':'26553', 'sign':'5ff7e14edd97a0792939d778bbdfa5e6','phone':'18620790787','format':'json'}
